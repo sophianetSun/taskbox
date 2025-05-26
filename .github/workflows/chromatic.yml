@@ -20,4 +20,4 @@ jobs:
         with:
           # Chromatic proejctToken
           projectToken: ${{ secrets.CHROMATIC_PROJECT_TOKEN }}
-          token: ${{ secrets.GITHUB_TOKEN}}
+          token: ${{ secrets.TOKEN }}
